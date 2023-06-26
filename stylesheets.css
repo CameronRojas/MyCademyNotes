@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    /* border: 1px red solid; */
+    margin: 0;
+    padding: 0;
+}
+li {
+    margin: 5px 30px;
+}
+.html h1{
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    margin: 0px 0px 15px;
+}
+.html p{
+    margin: 5px 0px;
+}
+
+.html .tags{
+    color: blue;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(128,128,128,0.3);
+    text-decoration: underline;
+    text-decoration-color: blue;
+} 
+.html .att{
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(128,128,128,0.3);
+    text-decoration: underline;
+    text-decoration-color: red;
+} 
